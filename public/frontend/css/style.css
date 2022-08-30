@@ -108,8 +108,8 @@ License        :   Licensed under ThemeForest License
     --primary-bg-border: #5161c1;
     --primary-bg-transparentcolor: rgba(0, 20, 142, 0.16);
     --primary-bg-background: #f7f7fb;
-    --secondary-color: #ff8819;
-    --secondary-hover: #fd820e;
+    --secondary-color: #429e9d;
+    --secondary-hover: #429e9d;
     --secondary-transparent: rgba(255, 136, 25, 0.16);
     --secondary-shadow: rgba(233, 30, 99, 0.1);
     --primary-09: rgba(0, 20, 142, 0.86);
@@ -15146,11 +15146,11 @@ dd {
 }
 
 .sticky-wrapper.absolute.banners .horizontal-main .horizontalMenu>.horizontalMenu-list>li>a {
-    color: #3f3e50 !important;
+    color: #aecdd2 !important;
 }
 
 .sticky-wrapper.absolute.banners .horizontal-main .horizontalMenu>.horizontalMenu-list>li>a>.fa {
-    color: #3f3e50 !important;
+    color: #aecdd2 !important;
 }
 
 .sticky-wrapper.absolute.banners .horizontalMenu>.horizontalMenu-list>li:hover>a .fa,
@@ -65813,7 +65813,7 @@ button.bg-dark:hover {
 }
 
 .bg-dark-purple {
-    background-color: #160346 !important;
+    background-color: #798f93 !important;
 }
 
 a.bg-dark-purple:focus,

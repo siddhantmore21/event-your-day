@@ -128,7 +128,7 @@
 @push('js')
 
 <!-- JQuery js-->
-<script src="{{ asset('frontend/js/vendors/jquery.js') }}"></script>
+{{-- <script src="{{ asset('frontend/js/vendors/jquery.js') }}"></script> --}}
 
 <!-- Bootstrap js -->
 <script src="{{ asset('frontend/plugins/bootstrap/js/popper.min.js') }}"></script>

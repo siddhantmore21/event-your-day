@@ -22,6 +22,7 @@
 
 		<!-- Font-awesome  Css -->
 		<link href="{{ asset('frontend/css/icons.css') }}" rel="stylesheet"/>
+				
 		@stack('styles')
 
 	</head>

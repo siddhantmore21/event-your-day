@@ -53,7 +53,7 @@
 
             this.$element.hide();
             this.multiple = this.$element.prop('multiple');
-            this.autofocus = this.$element.prop('autofocus');
+            // this.autofocus = this.$element.prop('autofocus');
             this.$newElement = this.createView();
             this.$element.after(this.$newElement);
             this.$menu = this.$newElement.find('> .dropdown-menu');
