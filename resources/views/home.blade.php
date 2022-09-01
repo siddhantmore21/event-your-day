@@ -95,7 +95,7 @@
                                             class="form-control select2-show-search js-select border-bottom-0 filter-select"
                                             id="select-tailored" aria-label="Floating label select example"
                                             onchange="tailoredoption()">
-                                            {{-- <option disabled>Business Type</option> --}}
+                                            <option disabled selected>Business Type</option>
                                             <option value="0">All</option>
                                             <option value="1">Venues</option>
                                             <option value="2">Catering</option>
